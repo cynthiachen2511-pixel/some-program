@@ -11,13 +11,13 @@ Final dataset: 3,023 samples, 24 features, no missing values after cleaning
 Target variable: Approaches — severely imbalanced (5.9% True)
 
 # Requirements
-
+```
 pandas
 numpy
 scikit-learn
 matplotlib
 seaborn
-
+```
 # Notebook Sections
 
 The notebook runs top to bottom in four stages:
