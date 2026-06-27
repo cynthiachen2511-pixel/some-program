@@ -34,4 +34,4 @@ The notebook runs top to bottom in four stages:
 | KNN (k=5) | 0.94 | 0.31 | 0.13 | 0.18 |
 | Decision Tree (d=4) | 0.68 | 0.12 | **0.77** | 0.20 |
 
-Full methodology and discussion in [`Can_squirrel_behaviour_patterns_predict_Report.pdf`]([Data_Processing_and_Machine_Learning(Squirrel_in_CentralPark)/Can_squirrel_behaviour_patterns_predict_Report.pdf](https://github.com/cynthiachen2511-pixel/some-program/blob/main/Data_Processing_and_Machine_Learning(Squirrel_in_CentralPark)/Can_squirrel_behaviour_patterns_predict_Report.pdf)).
+Full methodology and discussion are available in the written report included in this repository.
